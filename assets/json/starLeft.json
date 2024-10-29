@@ -1,0 +1,63 @@
+{
+    "v": "5.9.0",
+    "fr": 30,
+    "ip": 0,
+    "op": 1927,
+    "w": 1800,
+    "h": 1200,
+    "nm": "stars",
+    "ddd": 0,
+    "assets": [{
+        "id": "image_0",
+        "w": 1800,
+        "h": 1200,
+        "u": "",
+        "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABwgAAASwAgMAAACSjPaQAAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAAACXBIWXMAAAABAAAAAQBPJcTWAAAADFBMVEVHcEyJVy+FgHzFxcWzw7LIAAAAA3RSTlMATdFOdRfUAAAELElEQVR42uzcv23bUBAHYKrQCEzWUZNehY5GxEJ1HCAaQUuEblKriIuswCXsEVSkSpVCBswX/jGQZIQTvm+E++HeuyMpVRUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAD6o0aJBdbNchttd8pQm7rU6cIySPsLy7D5BGWqwiTD6Tl1TyT27sy7CLUIXWEpYtwlib2fozw3nWY2V0ZuQ6Td2EpgwjzWs1deBVh4rWwnSPcVB6zZRWnJcKVoTRrEzZTguWyWX8SYU71cY7wXNWG0qSWJixddWcoTeowJzjsqraIMOdK8RZhxKEYSXNGuFyF14ijLkwaYbtE2A5FFya1XyKcztPOVpFzs+/np9zTeXrRhjn3ws/zOHOYZxrlyGg9n6RDuzyiUY+M88xykjZvz7rJeJLOa8WDCPMepDFH2PUO0qQtuKn/ifCsIAkvwl1znSN87k2kOU/RL9GOEQ5LhFd7YcII+8tpjPDlsZynq3CrIvkiHBtwjPCyf3yY3xmSMMIyRdjFx2kvfFKQnBH+Pg5dxPQl4lcFyXgXThG+7Kpoyy8R5o3w5zjGtMM3EaaM8DTOoe15U1XN90aEKVf7McJrM230EdGLMGkXvsa00ddRH232CdXTs7WYNvrVdr232SfUlL8b/SpEmNB/7+r9LCbjNHPwucUNDKQivIEIvehNvlOURy96M3fh/Y8yhHUwc4TRjJu9qzCziN5fXST3offtaPaB5milyH4bHi+KkDzCw7MiJLf32Vr6mdRWmF1tpwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/7cEhAQAAAICg/689YQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACATaw2YZRhmFFYAAAAAElFTkSuQmCC",
+        "e": 1
+    }],
+    "layers": [{
+        "ddd": 0,
+        "ind": 1,
+        "ty": 2,
+        "nm": "stars.ai",
+        "cl": "ai",
+        "refId": "image_0",
+        "sr": 1,
+        "ks": {
+            "o": {
+                "a": 0,
+                "k": 100,
+                "ix": 11
+            },
+            "r": {
+                "a": 0,
+                "k": 0,
+                "ix": 10
+            },
+            "p": {
+                "a": 0,
+                "k": [900, 600, 0],
+                "ix": 2,
+                "l": 2
+            },
+            "a": {
+                "a": 0,
+                "k": [900, 600, 0],
+                "ix": 1,
+                "l": 2
+            },
+            "s": {
+                "a": 0,
+                "k": [100, 100, 100],
+                "ix": 6,
+                "l": 2
+            }
+        },
+        "ao": 0,
+        "ip": 0,
+        "op": 1927,
+        "st": 0,
+        "bm": 0
+    }],
+    "markers": []
+}
